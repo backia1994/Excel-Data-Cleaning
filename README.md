@@ -2,8 +2,9 @@ Product Data Cleaning and Transformation using Excel Power Query
 
 Project Overview
 
-     This project focuses on cleaning, transforming, and formatting product data using Excel Power Query and Excel formatting features. 
-The objective was to improve data quality, ensure consistency, and prepare the dataset for analysis and reporting.
+     This project focuses on cleaning, transforming, and formatting product data
+using Excel Power Query and Excel formatting features. The objective was to improve 
+data quality, ensure consistency, and prepare the dataset for analysis and reporting.
 Data Cleaning Tasks Performed
 
 Handling Missing Values
